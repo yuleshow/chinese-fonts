@@ -1,0 +1,32 @@
+Thanks
+
+A part of this font was completed with the support of Grant-in-Aid for
+Publication of Scientific Research Results from Japan Society for the
+Promotion of Science and the International Research Institute for
+Zen Buddhism (IRIZ), Hanazono University.
+
+----------
+
+謝辞
+
+このフォントのJIS X 0208:1997 収録文字集合の一部は、2005年度 日本学術
+振興会科学研究費補助金（研究公開促進費）および花園大学国際禅学研究所[1]
+文部科学省・学術フロンティア推進事業 の補助により漢字データベース計画[2]
+で作成したデータを利用しています。
+
+このフォントの収録文字集合の一部は、科学研究費補助金（課題番号:22700262）
+（課題番号:23320010）（課題番号:23320077）による研究成果の一部です。
+
+このフォントは、グリフウィキ[3]に登録ユーザーとして、あるいは匿名ユーザー
+として漢字字形データを登録・改良してくださった多数の方々によるボランティ
+アの活動から成り立っています。グリフウィキは、科学研究費補助金（前述の
+ほか課題番号:16H03351）による研究成果の一部です。
+
+縦書き表示用のパラメータ生成には漢字データベース計画が公開している情報[4]
+を参考としています。
+
+[1] http://iriz.hanazono.ac.jp/
+[2] http://kanji-database.sourceforge.net/
+[3] http://glyphwiki.org/
+[4] http://kanji-database.sourceforge.net/fonts/opentype.html
+
