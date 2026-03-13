@@ -83,6 +83,7 @@
 | 心明朝體 こころ明朝体 | 1 | IPA Font License v1.0 | | | ✓ | | ✗ 日式 | [官網](https://fontopo.com/?p=520) |
 | 解星 Kaisei（Opti/Decol/HarunoUmi/Tokumin） | 4 | SIL OFL 1.1 | | | ✓ | | ✗ 日式 | [Google Fonts](https://fonts.google.com/specimen/Kaisei+Opti) |
 | 匯文明朝體 HuiWen MingChao | 1 | 免費商用（作者授權） | ✓ | ✓ | | | ✗ | [知乎](https://zhuanlan.zhihu.com/p/344103391) |
+| 匯文明朝體（修正）HuiWen MingChao Improved | 1 | CC0-1.0 | ✓ | ✓ | | | ✓ 標點居中修正 | [GitHub](https://github.com/bosswnx/huiwenmincho-improved) |
 | 京華老宋體 JingHua LaoSong | 1 | 免費商用（作者授權） | ✓ | ✓ | | | ✗ | [Google Drive](https://drive.google.com/file/d/1WQu8_LaS5JRn9Fd03cxWpT4LA9H9HC7T/view) |
 | Oradano 明朝 | 1 | 免費商用 | | | ✓ | | ✗ 日式 | [官網](https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/) |
 | New Tegomin ニューテゴミン | 1 | SIL OFL 1.1 | | | ✓ | | ✗ 日式 | [Google Fonts](https://fonts.google.com/specimen/New+Tegomin) / [GitHub](https://github.com/nagamaki008/NewTegomin) |
